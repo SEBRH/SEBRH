@@ -1,4 +1,19 @@
-### Hi there 👋
+
+============================
+###         SERBH
+============================
+
+## Working on: 
+- Web app aplications 🖥💻⌨
+- Vid_Game 👾
+- Functional / usefull stuff 🐀
+## Learning: 
+# (Advanced Algorithms and Data structures commonly used)
+- LUA (yes robux) 🤡
+- C++ 🦾
+- Python 🐍
+- Java (Minecraft lol) ⛏
+- Java Script (Not Minecraft lol) 🎂
 
 <!--
 **SEBRH/SEBRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
