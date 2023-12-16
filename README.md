@@ -1,14 +1,11 @@
-
-============================
-###         SERBH
-============================
-
+SERBH 
+=
 ## Working on: 
 - Web app aplications 🖥💻⌨
 - Vid_Game 👾
 - Functional / usefull stuff 🐀
 ## Learning: 
-# (Advanced Algorithms and Data structures commonly used)
+**(Advanced Algorithms and Data structures commonly used)**
 - LUA (yes robux) 🤡
 - C++ 🦾
 - Python 🐍
