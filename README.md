@@ -1,14 +1,14 @@
 SERBH 
 =
-## Working on: 
+# Working on: 
 - Web app aplications 🖥💻⌨
 - Vid_Game 👾
     - Boblos game
     - Unity Game
     - UnrealE Game
 - Functional / usefull stuff 🐀
-## Learning: 
-**(Advanced Algorithms and Data structures commonly used)**
+# Learning: 
+## **(Advanced Algorithms and Data structures commonly used)**
 - LUA (yes robux) 🤡
 - C++ 🦾
 - Python 🐍
