@@ -7,9 +7,7 @@
 - ⚡ **Scalable Web and Mobile Applications** 🖥💻⌨  
 - 🔐 **Cybersecurity & Ethical Hacking**  
 - ⚙️ **APIs & Backend Development**  
-- 🛠️ **Code optimization**  
-- 🛠️ **Stripper profesional**-
-- - 🛠️ **WEBON**  
+- 🛠️ **Code optimization**    
 ---
 
 ### 📚 **Currently Learning:**  
