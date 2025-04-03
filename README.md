@@ -8,7 +8,8 @@
 - 🔐 **Cybersecurity & Ethical Hacking**  
 - ⚙️ **APIs & Backend Development**  
 - 🛠️ **Code optimization**  
-
+- 🛠️ **Stripper profesional**-
+- - 🛠️ **WEBON**  
 ---
 
 ### 📚 **Currently Learning:**  
