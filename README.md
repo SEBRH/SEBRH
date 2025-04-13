@@ -1,26 +1,44 @@
-# 🚀 SERBH  
-## *FullStack Developer & Cybersecurity Enthusiast*  
+# SERBH (⌐■_■) 
+## *FullStack Software Developer & Cybersecurity Enthusiast*  
 
 ---
 
-### 🔧 **Working on:**  
+### 📚 **Working on:**  
 - ⚡ **Scalable Web and Mobile Applications** 🖥💻⌨  
 - 🔐 **Cybersecurity & Ethical Hacking**  
 - ⚙️ **APIs & Backend Development**  
 - 🛠️ **Code optimization**    
 ---
 
+### 🔧 **My tools:**
+- 👁‍🗨 Vue, Angular, React, Flutter, Andoid Native
+- 🎯 Node.js, SpringBoot, ASP.NetCore
+- 📄 MongoDB, SQL, CloudServices
+- 🔊 English C1, Spanish Native
+
 ### 📚 **Currently Learning:**  
 > 🧠 **LLM and AI Structures**  
-> 💾 **Flask**
+> 📖 **Best Practices**
 
 ---
+
+<a href="https://github.com/SEBRH">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SEBRH" />
+</a>
+<a href="https://github.com/SEBRH">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SEBRH&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 🌍 **Find Me Online:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ramirez-hoffmann-386877291/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SEBRH)  
-✉️ **Contact me:** [u202211894@upc.edu.pe]  
+[![PortFolio]](https://sebrhdev.netlify.app/home)  
+
+✉️ **Contact me:** [sebrh.dev@gmail.com]  
 
 ---
 
-💡 *"What do I do? I do my best."* 🔥  
+💡 *"What do I do? I do my best."* ¯\_(ツ)_/¯
