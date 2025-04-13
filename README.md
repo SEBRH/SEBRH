@@ -29,8 +29,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SEBRH&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 
 ### 🌍 **Find Me Online:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ramirez-hoffmann-386877291/)  
