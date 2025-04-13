@@ -1,5 +1,6 @@
 # SERBH (⌐■_■) 
 ## *FullStack Software Developer & Cybersecurity Enthusiast*  
+FullStack Software Developer from Perú 🇵🇪, passionate about building scalable solutions and keeping them secure. I love working with modern technologies and growing through real-world challenges 🚀  
 
 ---
 
@@ -11,14 +12,15 @@
 ---
 
 ### 🔧 **My tools:**
-- 👁‍🗨 Vue, Angular, React, Flutter, Andoid Native
-- 🎯 Node.js, SpringBoot, ASP.NetCore
-- 📄 MongoDB, SQL, CloudServices
-- 🔊 English C1, Spanish Native
+- 👁‍🗨 Frontend: Vue.js, Angular, React, Flutter, Android Native  
+- 🎯 Backend: Node.js, Spring Boot, ASP.NET Core  
+- 💾 Databases & Cloud: MongoDB, SQL, Firebase, AWS  
+- 🌍 Languages: English (C1), Spanish (Native)
 
 ### 📚 **Currently Learning:**  
 > 🧠 **LLM and AI Structures**  
 > 📖 **Best Practices**
+
 
 ---
 
