@@ -1,44 +1,23 @@
-# SERBH (⌐■_■) 
-## *FullStack Software Developer & Cybersecurity Enthusiast*  
-FullStack Software Developer from Perú 🇵🇪, passionate about building scalable solutions and keeping them secure. I love working with modern technologies and growing through real-world challenges 🚀  
+# Sebastián Ramírez Hoffmann (⌐■_■)
+### Full-Stack Software Engineer · Lima, Perú 🇵🇪
+Turning complex workflows into clean, scalable systems. Next.js, TypeScript & Node.js.
 
----
+### What I've built
+- **[DBLSEO Scanner](https://sebrh.com/projects/dblseo/)**: multi-tenant SEO SaaS with RBAC, Stripe billing, and Playwright E2E tests. 10+ user organizations.
+- **[100+ site pipeline](https://sebrh.com/projects/site-pipeline/)**: config-driven Next.js pipeline (YAML → SEO config → template) that took delivery from ~1 site/month to 1–2 sites/day.
+- **[Acogas.pe](https://sebrh.com/projects/acogas/)**: freelance, end to end: headless WordPress + Next.js on Coolify, a 300+ product import pipeline, HubSpot and WhatsApp integrations. 33k Search Console impressions.
 
-### 📚 **Working on:**  
-- ⚡ **Scalable Web and Mobile Applications** 🖥💻⌨  
-- 🔐 **Cybersecurity & Ethical Hacking**  
-- ⚙️ **APIs & Backend Development**  
-- 🛠️ **Code optimization**    
----
+### Stack
+- **Frontend:** TypeScript, Next.js, React, Vue
+- **Backend:** Node.js, Python (FastAPI), Java (Spring Boot)
+- **Data & infra:** PostgreSQL, MongoDB, Docker, Linux, Coolify, AWS, Azure, Cloudflare
+- **Testing:** Playwright
 
-### 🔧 **My tools:**
-- 👁‍🗨 Frontend: Vue.js, Angular, React, Flutter, Android Native  
-- 🎯 Backend: Node.js, Spring Boot, ASP.NET Core  
-- 💾 Databases & Cloud: MongoDB, SQL, Firebase, AWS  
-- 🌍 Languages: English (C1), Spanish (Native)
+### Currently learning
+Design patterns and refactoring, system design, and AWS Solutions Architect.
 
-### 📚 **Currently Learning:**  
-> 🧠 **LLM and AI Structures**  
-> 📖 **Best Practices**
-
-
----
-
-<a href="https://github.com/SEBRH">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SEBRH" />
-</a>
-<a href="https://github.com/SEBRH">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SEBRH&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-### 🌍 **Find Me Online:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ramirez-hoffmann-386877291/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SEBRH)  
-[PortFolio](https://sebrhdev.netlify.app/home)  
-
-✉️ **Contact me:** [sebrh.dev@gmail.com]  
-
----
+### 🌍 Find me
+[Portfolio](https://sebrh.com) · [LinkedIn](https://www.linkedin.com/in/sebrh/) · sebrh.dev@gmail.com
+English (C2) · Spanish (native)
 
 💡 *"What do I do? I do my best."* ¯\_(ツ)_/¯
